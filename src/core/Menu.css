@@ -1,0 +1,9 @@
+.nav {
+    min-height: 80px;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: .5rem 1rem;
+    font-size: larger;
+    background-color: #47b2ff;
+}
